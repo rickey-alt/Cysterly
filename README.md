@@ -1,2 +1,0 @@
-tindog start master
-
