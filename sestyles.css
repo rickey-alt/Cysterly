@@ -51,7 +51,7 @@ h3{
   font-family: Montserrat-bold;
 }
 p{
-  color: #8f8f8f;
+  color: #808080;
 }
 
 /* NAVIGATION BAR */
@@ -86,7 +86,7 @@ width: 600px;
 }
 
 .navbar-logo{
-
+  height: 17%;
   width: 17%;
 }
 
@@ -118,8 +118,13 @@ top: -90px
 
 #features{
   padding: 7% 15%;
-  background-color: white;
+  background-color: #ef8172;
+  color: #fff
 
+}
+
+.features-p{
+  color: #fff;
 }
 
 .feature-box{
@@ -128,7 +133,7 @@ top: -90px
 }
 
 .icon{
-  color: #ef8172;
+  color:#fff;
   margin-bottom: 1rem;
 }
 
@@ -140,8 +145,12 @@ top: -90px
 
 #testimonials{
   text-align: center;
-  background-color: #ef8172;
-  color: #fff;
+  background-color: #fff;
+  color: #black;
+}
+
+.c-btn{
+  color: black;
 }
 
 .carousel-item{
